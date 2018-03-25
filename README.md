@@ -1,4 +1,4 @@
 # hello-word
 Just another repository
-My name is maixng
+My name is maxing
 I come form China
